@@ -14,3 +14,12 @@ section {
 #projects {
   background-color: #e2edff;
 }
+
+.gallery-img {
+  width: 100%;
+}
+
+/* apapun yang di dalamnya setelah row */
+#gallery .row > * {
+  padding: 0;
+}
